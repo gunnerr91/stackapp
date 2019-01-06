@@ -4,12 +4,14 @@ import { Provider } from "react-redux";
 import { createStore } from "redux";
 import reducers from "./reducers/Index";
 import Header from "./components/shared/Header";
+import LibraryList from "./components/LibraryList";
 
 const App = () => {
   return (
     <Provider store={createStore(reducers)}>
-      <View>
+      <View style={{ flex: 1 }}>
         <Header header="Stack app" />
+        <LibraryList />
       </View>
     </Provider>
   );
