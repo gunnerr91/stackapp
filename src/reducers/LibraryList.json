@@ -1,31 +1,31 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "title": "Title 1",
     "description": "Some description for 1"
   },
   {
-    "id": "2",
+    "id": 2,
     "title": "Title 2",
     "description": "Some description for 2"
   },
   {
-    "id": "3",
+    "id": 3,
     "title": "Title 3",
     "description": "Some description for 3"
   },
   {
-    "id": "4",
+    "id": 4,
     "title": "Title 4",
     "description": "Some description for 4"
   },
   {
-    "id": "5",
+    "id": 5,
     "title": "Title 5",
     "description": "Some description for 5"
   },
   {
-    "id": "6",
+    "id": 6,
     "title": "Title 6",
     "description": "Some description for 6"
   }
