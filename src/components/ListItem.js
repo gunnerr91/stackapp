@@ -4,7 +4,6 @@ import CardSection from "./shared/CardSection";
 
 class ListItem extends Component {
   render() {
-    // console.log(this.props);
     return (
       <CardSection>
         <View style={styles.wrapper}>
